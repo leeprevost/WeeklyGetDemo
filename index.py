@@ -1,7 +1,6 @@
 import json
 import datetime
 import pandas as pd
-from sqlalchemy.ext.automap import automap_base
 
 
 def handler(event, context):
